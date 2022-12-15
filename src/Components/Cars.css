@@ -112,6 +112,49 @@
     border: none;
     font-size: 18px;
 }
+.search_content {
+    position: absolute;
+    background: white;
+    width: 100%;
+    top: -0.9px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    left: 0;
+    border-radius: 10px;
+    box-sizing: border-box;
+    min-height: 250px;
+    z-index: 1;
+    /* display:none */
+
+}
+
+.search_content>input {
+    padding-left: 20px;
+    width: 90%;
+    font-size: 18px;
+    height: 40px;
+    border: none;
+    overflow-y: scroll;
+    height: 50px;
+}
+
+.search_content>div {
+    padding-left: 20px;
+    font-size: 16px;
+    overflow-y: scroll;
+    height: 50px;
+}
+
+.citysearch>a {
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    color: black;
+    font-size: 21px;
+}
+
+.citysearch>a:hover {
+    color: #00a4bb;
+}
 .return {
     margin-right: 0;
 }
