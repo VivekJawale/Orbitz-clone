@@ -1,0 +1,1876 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Taj Palace",
+        "petrol": "Diesel",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Roseate House",
+        "petrol": "Diesel",
+        "rating": 4.3,
+        "reviews": 115,
+        "price": 2000,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "The Leela Palace",
+        "petrol": "Diesel",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Novotel New Delhi Aerocity Hotel",
+        "petrol": "Diesel",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 3500,
+        "delas": 10,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "The Park New Delhi",
+        "petrol": "Diesel",
+        "rating": 3.5,
+        "reviews": 542,
+        "price": 3000,
+        "delas": 10,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+         
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Hotel City Star",
+        "petrol": "Diesel",
+        "rating": 4.3,
+        "reviews": 890,
+        "price": 1500,
+        "delas": 30,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+       
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "The Metropolitan Hotel",
+        "petrol": "Diesel",
+        "rating": 3.9,
+        "reviews": 1000,
+        "price": 1200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+       
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2525421d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Pride Plaza Hotel",
+        "petrol": "Diesel",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 4500,
+        "delas": 0,
+        "city": "Delhi",
+        "address": "",
+        "paymentType": "Reserve now Pay, Later",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/14000000/13090000/13083600/13083538/380e3879.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Eros Hotel New Delhi, Nehru Place",
+        "petrol": "Diesel",
+        "rating": 3.8,
+        "reviews": 492,
+        "price": 4000,
+        "delas": 20,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/9128c109.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "The Imperial New Delhi",
+        "petrol": "Diesel",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Hotel Golden Crown",
+        "petrol": "Diesel",
+        "rating": 4.3,
+        "reviews": 390,
+        "price": 2500,
+        "delas": 15,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/f99e7dbd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Connaught Hotel",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 150,
+        "price": 1700,
+        "delas": 20,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "propertyType": "Hotel Resort",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Crown Plaza Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 545,
+        "price": 3500,
+        "delas": 0,
+        "city": "Delhi",
+        "address": "",
+        "paymentType": "Fully Refundable",
+        "propertyType": "Villa",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Emaa Hotel New Delhi",
+        "area": "Nehru Place",
+        "rating": 4.8,
+        "reviews": 772,
+        "price": 5000,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "The Riva",
+        "area": "Janpath Road",
+        "rating": 3.4,
+        "reviews": 745,
+        "price": 1300,
+        "delas": 40,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Hover Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 1200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4810000/4804200/4804148/ded850fb.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "IBIS Hotel",
+        "area": "Aerocity",
+        "rating": 3.3,
+        "reviews": 115,
+        "price": 2200,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4810000/4804200/4804148/b3d28f08.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "The Orion Plaza",
+        "area": "Rajpath Marg",
+        "rating": 3.6,
+        "reviews": 745,
+        "price": 900,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/34000000/33230000/33220200/33220174/9cef677e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "The Aerocity Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 600,
+        "delas": 10,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/6fa8f045.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "The Perk New",
+        "area": "Rajpath Marg",
+        "rating": 3.5,
+        "reviews": 112,
+        "price": 800,
+        "delas": 10,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/d967f0e6.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Hotel Bright Star",
+        "area": "Paharganj",
+        "rating": 3.3,
+        "reviews": 890,
+        "price": 2300,
+        "delas": 30,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/6bc105d7.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "The Mohos Grand",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 200,
+        "price": 1900,
+        "delas": 0,
+        "city": "Delhi",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "paymentType": "Reserve now Pay, Later",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/dffafa2c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Pullman Hotel",
+        "area": "Aerocity",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 2600,
+        "delas": 25,
+        "city": "Delhi",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "paymentType": "Fully Refundable",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/c7178182.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Radisson Blu Plaza Delhi Airport",
+        "area": "Nehru Place",
+        "rating": 4.8,
+        "reviews": 492,
+        "price": 3800,
+        "delas": 0,
+        "city": "Delhi",
+        "address": "Nehru Place, New Delhi, 110019",
+        "paymentType": "Reserve now Pay, Later",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/e1cfe61e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "The Imperial ",
+        "area": "Janpath Road",
+        "rating": 2.1,
+        "reviews": 745,
+        "price": 1300,
+        "delas": 30,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4330000/4327800/4327701/a9256ea8.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Hotel Brown Lable",
+        "area": "Paharganj",
+        "rating": 4.3,
+        "reviews": 390,
+        "price": 2500,
+        "delas": 15,
+        "city": "Delhi",
+        "paymentType": "Reserve now Pay, Later",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4330000/4327800/4327701/45aed34f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "The Golden Hotel",
+        "area": "Connaught Place",
+        "rating": 4.1,
+        "reviews": 565,
+        "price": 3100,
+        "delas": 20,
+        "paymentType": "Fully Refundable",
+        "city": "Delhi",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4330000/4327800/4327701/736cf381.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "The Oberoi Gurgaon",
+        "area": "Gurgaon",
+        "rating": 4.8,
+        "reviews": 336,
+        "price": 3200,
+        "delas": 10,
+        "city": "Delhi",
+        "address": "Gurgaon",
+        "paymentType": "Fully Refundable",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/5000000/4330000/4327800/4327701/8258bc4d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Zen Hotel New Delhi,",
+        "area": "Nehru Place",
+        "rating": 3.8,
+        "reviews": 152,
+        "price": 2600,
+        "delas": 0,
+        "city": "Delhi",
+        "address": "Nehru Place, New Delhi, 110019",
+        "paymentType": "Reserve now Pay, Later",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/d06e9d8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "The Polo",
+        "area": "Janpath Road",
+        "rating": 2.1,
+        "reviews": 745,
+        "price": 2300,
+        "delas": 0,
+        "city": "Delhi",
+        "paymentType": "Fully Refundable",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/51168226.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Taj Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Lucknow",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Roseate House",
+        "area": "Aerocity",
+        "rating": 4.3,
+        "reviews": 115,
+        "price": 2000,
+        "delas": 0,
+        "city": "Lucknow",
+        "paymentType": "Fully Refundable",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "The Leela Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Lucknow",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Novotel New Delhi Aerocity Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 3500,
+        "delas": 10,
+        "city": "Lucknow",
+        "paymentType": "Fully Refundable",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "The Park New Delhi",
+        "area": "Rajpath Marg",
+        "rating": 3.5,
+        "reviews": 542,
+        "price": 3000,
+        "delas": 10,
+        "city": "Lucknow",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Hotel City Star",
+        "area": "Paharganj",
+        "rating": 4.3,
+        "reviews": 890,
+        "price": 1500,
+        "delas": 30,
+        "city": "Lucknow",
+        "paymentType": "Fully Refundable",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "The Metropolitan Hotel",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 1000,
+        "price": 1200,
+        "delas": 0,
+        "city": "Lucknow",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2525421d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Pride 3Plaza Hotel",
+        "area": "Aerocity",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 4500,
+        "delas": 0,
+        "city": "Lucknow",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "paymentType": "Fully Refundable",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/14000000/13090000/13083600/13083538/380e3879.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Eros Hotel New Delhi, Nehru Place",
+        "area": "Nehru Place",
+        "rating": 3.8,
+        "reviews": 492,
+        "price": 4000,
+        "delas": 20,
+        "city": "Lucknow",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/9128c109.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "The Imperial New Delhi",
+        "area": "Janpath Road",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Lucknow",
+        "paymentType": "Fully Refundable",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Taj Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Bangalore",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Roseate House",
+        "area": "Aerocity",
+        "rating": 4.3,
+        "reviews": 115,
+        "price": 2000,
+        "delas": 0,
+        "city": "Bangalore",
+        "paymentType": "Fully Refundable",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "The Leela Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Bangalore",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Novotel New Delhi Aerocity Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 3500,
+        "delas": 10,
+        "city": "Bangalore",
+        "paymentType": "Fully Refundable",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "The Park New Delhi",
+        "area": "Rajpath Marg",
+        "rating": 3.5,
+        "reviews": 542,
+        "price": 3000,
+        "delas": 10,
+        "city": "Bangalore",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Hotel City Star",
+        "area": "Paharganj",
+        "rating": 4.3,
+        "reviews": 890,
+        "price": 1500,
+        "delas": 30,
+        "city": "Bangalore",
+        "paymentType": "Fully Refundable",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "The Metropolitan Hotel",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 1000,
+        "price": 1200,
+        "delas": 0,
+        "city": "Bangalore",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2525421d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Pride Plaza Hotel",
+        "area": "Aerocity",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 4500,
+        "delas": 0,
+        "city": "Bangalore",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/14000000/13090000/13083600/13083538/380e3879.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Eros Hotel New Delhi, Nehru Place",
+        "area": "Nehru Place",
+        "rating": 3.8,
+        "reviews": 492,
+        "price": 4000,
+        "delas": 20,
+        "city": "Bangalore",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/9128c109.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "The Imperial New Delhi",
+        "area": "Janpath Road",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Bangalore",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Taj Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Roseate House",
+        "area": "Aerocity",
+        "rating": 4.3,
+        "reviews": 115,
+        "price": 2000,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "The Leela Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Novotel New Delhi Aerocity Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 3500,
+        "delas": 10,
+        "city": "Hyderabad",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "The Park New Delhi",
+        "area": "Rajpath Marg",
+        "rating": 3.5,
+        "reviews": 542,
+        "price": 3000,
+        "delas": 10,
+        "city": "Hyderabad",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Hotel City Star",
+        "area": "Paharganj",
+        "rating": 4.3,
+        "reviews": 890,
+        "price": 1500,
+        "delas": 30,
+        "city": "Hyderabad",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "The Metropolitan Hotel",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 1000,
+        "price": 1200,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2525421d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Pride Plaza Hotel",
+        "area": "Aerocity",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 4500,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/14000000/13090000/13083600/13083538/380e3879.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Eros Hotel New Delhi, Nehru Place",
+        "area": "Nehru Place",
+        "rating": 3.8,
+        "reviews": 492,
+        "price": 4000,
+        "delas": 20,
+        "city": "Hyderabad",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/9128c109.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "The Imperial New Delhi",
+        "area": "Janpath Road",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Hyderabad",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Taj Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Pune",
+        "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Roseate House",
+        "area": "Aerocity",
+        "rating": 4.3,
+        "reviews": 115,
+        "price": 2000,
+        "delas": 0,
+        "city": "Pune",
+        "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "The Leela Palace",
+        "area": "Rajpath Marg",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Pune",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Novotel New Delhi Aerocity Hotel",
+        "area": "Aerocity",
+        "rating": 4.1,
+        "reviews": 523,
+        "price": 3500,
+        "delas": 10,
+        "city": "Pune",
+        "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "The Park New Delhi",
+        "area": "Rajpath Marg",
+        "rating": 3.5,
+        "reviews": 542,
+        "price": 3000,
+        "delas": 10,
+        "city": "Pune",
+        "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Hotel City Star",
+        "area": "Paharganj",
+        "rating": 4.3,
+        "reviews": 890,
+        "price": 1500,
+        "delas": 30,
+        "city": "Pune",
+        "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "name": "The Metropolitan Hotel",
+        "area": "Connaught Place",
+        "rating": 3.9,
+        "reviews": 1000,
+        "price": 1200,
+        "delas": 0,
+        "city": "Pune",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2525421d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Pride Plaza Hotel",
+        "area": "Aerocity",
+        "rating": 3.9,
+        "reviews": 745,
+        "price": 4500,
+        "delas": 0,
+        "city": "Pune",
+        "address": "Bangla Sahib Road, Connaught Place, New Delhi, Delhi N.C.R, 110 001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/14000000/13090000/13083600/13083538/380e3879.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Eros Hotel New Delhi, Nehru Place",
+        "area": "Nehru Place",
+        "rating": 3.8,
+        "reviews": 492,
+        "price": 4000,
+        "delas": 20,
+        "city": "Pune",
+        "address": "Nehru Place, New Delhi, 110019",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/9128c109.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/b540323c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/84169a9e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/2a4a5583.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/540000/536600/536519/fba665b1.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "The Imperial New Delhi",
+        "area": "Janpath Road",
+        "rating": 4.6,
+        "reviews": 745,
+        "price": 2200,
+        "delas": 0,
+        "city": "Pune",
+        "address": "Janpath Road, New Delhi, Delhi N.C.R, 110001",
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/80000/75800/75755/5626de23.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          },
+          {
+            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+          }
+        ]
+      }
+    ]
+  }
