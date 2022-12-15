@@ -17,12 +17,12 @@ const Packages = () => {
 
   const handleChange =(e) =>{
     const val=e.target.value
-    console.log(val)
+    // console.log(val)
 
     getData().then((d)=>setData(d))
     
     const x=data.filter((d)=>console.log(d.name==val))
-    console.log(x)
+    // console.log(x)
     
   }
   return (
