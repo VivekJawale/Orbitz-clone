@@ -1,0 +1,13 @@
+.Container{
+display: grid;
+grid-template-columns: repeat(3,1fr)
+
+}
+@media (max-width: 919px){
+    .Container{
+        grid-template-columns: repeat(1,1fr);
+        width: 60%;
+        margin: auto;
+       
+    }
+}
