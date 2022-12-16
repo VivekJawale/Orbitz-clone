@@ -1,15 +1,14 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-// import FCcss from "../FindCity/FindCity.module.css"
 import { Box, Select, Input, Center, Button, Stack } from "@chakra-ui/react";
 
 const Findcity = () => {
   const [country, setCountry] = useState([]);
   const [query, setQuery] = useState("Search");
+  
   let getCountry = () => {
     return axios.get(`http://localhost:8080/country`);
   };
-  // console.log(country.filter((user)=>user.name.includes("sa")))
 
   useEffect(() => {
     getCountry().then((item) => setCountry(item.data));
@@ -80,9 +79,13 @@ const Findcity = () => {
       <br />
       <Box>
         <Center>
-          <Button bg="red" color="white" w={100}>
-            Search
-          </Button>
+
+   <Button  bg="red"  color="white" w={100}>Search</Button>
+     
+        
+       
+
+          
         </Center>
       </Box>
     </Box>

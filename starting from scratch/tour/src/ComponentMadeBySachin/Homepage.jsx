@@ -1,5 +1,6 @@
-import { Center } from "@chakra-ui/react";
+import { Button, Center } from "@chakra-ui/react";
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import Featuredoffer from "./Featuredoffer";
 import First from "./First";
 import Footer from "./Footer";
@@ -13,6 +14,7 @@ import SecondLast from "./SecondLast";
 // import Second from "../Secondpart/second";
 
 const Homepage = () => {
+  const Navigate =useNavigate()
   return (
     <div>
       <First />
@@ -43,6 +45,7 @@ const Homepage = () => {
       </div>
       <br />
       <br />
+      <Button  onClick={ ()=>Navigate("/cruise")} >hi there</Button>
     </div>
   );
 };
