@@ -84,34 +84,14 @@ const Cars = () => {
                                         {cityName?.map(city => {
                                             return <Link to={`/cars/${city.name}`} key={city.id} >{city.name}</Link>
                                         })}
-
-
                                     </div>
-
-
-
-
                                 </div>}
                             
                         </div>
                         <div className="flight_going_to" style={{position:"relative"}}>
                             <MdLocationOn fontSize={'1.4rem'} />
-                            <input type="text" placeholder="Same as pick-up" onFocus={() => { setResult(true) }}/>
-                            {result && <div className="search_content">
-                                    <input type="text" name=""placeholder="Same as pick-up"  onChange={handleChnage} />
-                                   
-                                    <div className="citysearch">
-                                        {cityName?.map(city => {
-                                            return <Link to={`/hotel/${city.name}`} key={city.id} >{city.city}</Link>
-                                        })}
-
-
-                                    </div>
-
-
-
-
-                                </div>}
+                            <input type="text" placeholder="Same as pick-up" />
+                            
                         </div>
                         <div className="checkin">
                             <p>Pick-up date</p>

@@ -1,4 +1,4 @@
- import Cars from "./Components/Cars"
+//  import Cars from "./Components/Cars"
  import Allroutes from "./Components/routes/Allroutes";
 // import Carpage from "./Components/Pages/Carpage"
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       
-      <Cars/>
+      {/* <Cars/> */}
       {/* <Carpage/> */}
       <Allroutes/>
     </div>
