@@ -97,7 +97,7 @@ const Packages = () => {
           onClick={() => setLorem(!lorem)}
           className="py-2 text-lg font-bold duration-1000 bg-red-500 rounded-md px-14 text-slate-50 hover:scale-150 "
         >
-          Search
+          // Search
         </button>
       </div>
       <div className="my-20">
