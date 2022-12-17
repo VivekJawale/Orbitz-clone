@@ -68,7 +68,7 @@ const Packages = () => {
           <ImLocation />
           <input
             className="px-5 py-2 outline-none"
-            // type="search"
+            type="search"
             placeholder="Going To"
           />
         </div>
