@@ -1,6 +1,7 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { Box, Select, Input, Center, Button, Stack } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 
 const Findcity = () => {
   const [country, setCountry] = useState([]);
@@ -80,8 +81,9 @@ const Findcity = () => {
       <Box>
         <Center>
 
+     <Link to={"/cruise"}>
    <Button  bg="red"  color="white" w={100}>Search</Button>
-     
+          </Link>
         
        
 

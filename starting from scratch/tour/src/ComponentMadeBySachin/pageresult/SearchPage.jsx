@@ -11,20 +11,20 @@ import axios from "axios";
 
 const SearchPage = () => {
   const [data, setData] = useState([]);
-  let city = JSON.parse(localStorage.getItem("city")) || "pune";
+  // let city = JSON.parse(localStorage.getItem("city")) || "pune";
   useEffect(() => {
-    axios.get(`https://expedia-arunrajbhar.vercel.app/${city}`).then((r) => {
-      // console.log(r.data)
+    axios.get(`http://localhost:8080/cruise`).then((r) => {
+      console.log(r.data )
       setData(r.data);
     });
-  }, [city]);
+  }, []);
   const handleSort = (e) => {
     // let data=e.target.value;
     let selected = e.target.value;
     if (selected === "high") {
       data.sort(function (a, b) {
-        if (Number(a.price2) > Number(b.price2)) return 1;
-        if (Number(a.price2) < Number(b.price2)) return -1;
+        if (Number(a.lockupprice) > Number(b.lockupprice)) return 1;
+        if (Number(a.lockupprice) < Number(b.lockupprice)) return -1;
         return 0;
       });
       console.log(data);
@@ -32,8 +32,8 @@ const SearchPage = () => {
     }
     if (selected === "low") {
       data.sort(function (a, b) {
-        if (Number(a.price2) > Number(b.price2)) return -1;
-        if (Number(a.price2) < Number(b.price2)) return 1;
+        if (Number(a.lockupprice) > Number(b.lockupprice)) return -1;
+        if (Number(a.lockupprice) < Number(b.lockupprice)) return 1;
         return 0;
       });
       console.log(data);
