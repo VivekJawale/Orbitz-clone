@@ -11,11 +11,9 @@
         "city": "Delhi",
         "paymentType": "Fully Refundable",
         "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
-        "images": [
-          {
-            "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
-          }
-        ]
+        "images": 
+             "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+         
       },
       {
         "id": 2,
@@ -28,11 +26,8 @@
         "city": "Delhi",
         "paymentType": "Reserve now Pay, Later",
         "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
-        "images": [
-          {
-            "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
-          }
-        ]
+        "images": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+         
       },
       {
         "id": 3,
@@ -45,11 +40,8 @@
         "city": "Delhi",
         "paymentType": "Fully Refundable",
         "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
-        "images": [
-          {
-            "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
-          }
-        ]
+        "images":"https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        
       },
       {
         "id": 4,

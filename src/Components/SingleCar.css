@@ -1,0 +1,43 @@
+.mainBox {
+    display: flex;
+    gap: 30px;
+    margin: 20px 0 25px 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+
+}
+
+.hotel_pic {
+    width: 30%;
+}
+
+.hotel_pic>img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.middle_feature {
+    display: flex;
+    column-gap: 20px;
+}
+
+.deatails_div {
+    margin-top: -10px;
+    line-height: 1px
+}
+
+.price_div {
+    display: flex;
+    justify-content: space-between;
+    place-items: center;
+    gap: 100px
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    text-decoration: none;
+        color: black;
+}
