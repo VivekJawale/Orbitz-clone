@@ -4,15 +4,17 @@ import React, { useEffect } from 'react';
 import styles from './styles/Carpage.module.css';
 import { MdLocationOn } from 'react-icons/md';
 import { useParams } from 'react-router-dom';
-
+import FilteredPage from '../FIlteredPage';
+import AllCars from '../AllCars';
 import { useDispatch } from 'react-redux';
 import { fetch_cars_data } from '../Redux/Queries/action';
+import { useSelector } from 'react-redux';
 
 const Carpage = () => {
     const { id } = useParams();
 
     const dispatch = useDispatch()
-    
+    const data = useSelector(state => state.car.data)
 
 
     useEffect(() => {
@@ -61,7 +63,14 @@ const Carpage = () => {
                     
                 </div>
             </div>
-          
+            <div className={styles.bodypart}>
+                        <div>
+                            <FilteredPage car={id} />
+                        </div>
+                        <div>
+                            <AllCars car={id} data={data} />
+                        </div>
+                    </div>
         </div>
     );
 };
