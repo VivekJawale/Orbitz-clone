@@ -65,9 +65,10 @@
 .Button {
   color: white;
   background-color: #c83259;
-  width: auto;
-  height: 45px;
+  width: 5rem;
+  height: 25px;
   border: none;
+  border-radius: 10px;
   margin: 25px;
 }
 
