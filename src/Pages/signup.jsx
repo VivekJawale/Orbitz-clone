@@ -15,6 +15,7 @@ import { Logo } from "../Components/Logo";
 import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { signupAPI } from "../redux/auth/auth.action";
+import Navbar from "../Components/Navbar/Navbar"
 
 const SignUp = () => {
   const [showPass, setShowPass] = useState(false);
@@ -107,7 +108,9 @@ const SignUp = () => {
   };
 
   return (
+    <>
     <Box>
+    <Navbar/>
       <Flex
         justifyContent={"center"}
         p="10px 20px"
@@ -223,6 +226,7 @@ const SignUp = () => {
         </Text>
       </Box>
     </Box>
+    </>
   );
 };
 

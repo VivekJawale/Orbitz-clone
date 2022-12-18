@@ -15,6 +15,7 @@ import { Logo } from "../Components/Logo";
 import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { signinAPI } from "../redux/auth/auth.action";
+import Navbar from "../Components/Navbar/Navbar";
 
 export const SignIn = () => {
   const [showPass, setShowPass] = useState(false);
@@ -72,22 +73,7 @@ export const SignIn = () => {
             isClosable: true,
             status: "error",
           });
-        } else if (
-          res.message === "Login success." &&
-          res.admin?.role === "admin"
-        ) {
-          toast({
-            title: "Admin Login Successful.",
-            description: "Redirecting to admin panel",
-            duration: 3000,
-            isClosable: true,
-            status: "success",
-            variant: "subtle",
-          });
-          window.location.replace(
-            `https://nomadotravelersadmin.netlify.app/${res.token}`
-          );
-        } else if (res.message === "Login success.") {
+        }  else if (res.message === "Login success.") {
           toast({
             title: "Login Successful.",
             duration: 3000,
@@ -104,6 +90,8 @@ export const SignIn = () => {
   };
 
   return (
+    <>
+    <Navbar/>
     <Box>
       <Flex
         justifyContent={"center"}
@@ -203,5 +191,6 @@ export const SignIn = () => {
         </Text>
       </Box>
     </Box>
+    </>
   );
 };
