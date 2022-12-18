@@ -15,7 +15,7 @@ import { Logo } from "../Components/Logo";
 import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { signupAPI } from "../redux/auth/auth.action";
-import Navbar from "../Components/Navbar/Navbar"
+import Navbar from "../Components/Navbar/Navbar";
 
 const SignUp = () => {
   const [showPass, setShowPass] = useState(false);
@@ -109,123 +109,123 @@ const SignUp = () => {
 
   return (
     <>
-    <Box>
-    <Navbar/>
-      <Flex
-        justifyContent={"center"}
-        p="10px 20px"
-        borderBottom={"1px solid rgba(0,0,0,0.2)"}
-      >
-        <Link to="/">
-          <Logo iconColor={"teal"} w="200px" h="40px" />
-        </Link>
-      </Flex>
-      <Box
-        margin="0px auto"
-        p="20px 10px"
-        w={{ base: "100%", sm: "250px", md: "430px" }}
-      >
-        <Heading fontSize="23px">Sign Up</Heading>
-        <form onSubmit={handleSubmit}>
-          <Box p="2px 10px" border="2px solid gray" mt="20px">
-            <Text fontSize="12px" fonTWeight={500} color="GrayText">
-              First Name
-            </Text>
-            <Input
-              variant="unstyled"
-              p="0px"
-              mt="0px"
-              value={userData.firstName}
-              onChange={handleUser}
-              name="firstName"
-            />
-          </Box>
-          <Box p="2px 10px" border="2px solid gray" mt="20px">
-            <Text fontSize="12px" fonTWeight={500} color="GrayText">
-              Last Name
-            </Text>
-            <Input
-              variant="unstyled"
-              p="0px"
-              mt="0px"
-              value={userData.lastName}
-              onChange={handleUser}
-              name="lastName"
-            />
-          </Box>
-          <Box p="2px 10px" border="2px solid gray" mt="20px">
-            <Text fontSize="12px" fonTWeight={500} color="GrayText">
-              Email address
-            </Text>
-            <Input
-              variant="unstyled"
-              p="0px"
-              mt="0px"
-              value={userData.email}
-              onChange={handleUser}
-              name="email"
-            />
-          </Box>
-          <Box p="2px 10px" border="2px solid gray" mt="20px">
-            <Text fontSize="12px" fonTWeight={500} color="GrayText">
-              Password
-            </Text>
-            <Flex>
+      <Box>
+        <Navbar />
+        <Flex
+          justifyContent={"center"}
+          p="10px 20px"
+          borderBottom={"1px solid rgba(0,0,0,0.2)"}
+        >
+          <Link to="/">
+            <Logo iconColor={"teal"} w="200px" h="40px" />
+          </Link>
+        </Flex>
+        <Box
+          margin="0px auto"
+          p="20px 10px"
+          w={{ base: "100%", sm: "250px", md: "430px" }}
+        >
+          <Heading fontSize="23px">Sign Up</Heading>
+          <form onSubmit={handleSubmit}>
+            <Box p="2px 10px" border="2px solid gray" mt="20px">
+              <Text fontSize="12px" fonTWeight={500} color="GrayText">
+                First Name
+              </Text>
               <Input
                 variant="unstyled"
                 p="0px"
                 mt="0px"
-                type={!showPass ? "password" : "text"}
-                value={userData.password}
+                value={userData.firstName}
                 onChange={handleUser}
-                name="password"
+                name="firstName"
               />
-              <Icon
-                as={showPass ? BiHide : BiShow}
-                onClick={() => setShowPass((prev) => !prev)}
+            </Box>
+            <Box p="2px 10px" border="2px solid gray" mt="20px">
+              <Text fontSize="12px" fonTWeight={500} color="GrayText">
+                Last Name
+              </Text>
+              <Input
+                variant="unstyled"
+                p="0px"
+                mt="0px"
+                value={userData.lastName}
+                onChange={handleUser}
+                name="lastName"
               />
-            </Flex>
-          </Box>
-          <Checkbox
-            color="GrayText"
-            mt="20px"
-            borderColor="black"
-            isChecked={userData.keepSigned}
-            name="keepSigned"
-            onChange={handleUser}
-          >
-            Keep me signed in.
-          </Checkbox>
-          <Text fontSize="12.5px" color="GrayText" mt="20px">
-            Selecting this checkbox will keep you signed into your account on
-            this device until you sign out. Do not select this on shared
-            devices.
+            </Box>
+            <Box p="2px 10px" border="2px solid gray" mt="20px">
+              <Text fontSize="12px" fonTWeight={500} color="GrayText">
+                Email address
+              </Text>
+              <Input
+                variant="unstyled"
+                p="0px"
+                mt="0px"
+                value={userData.email}
+                onChange={handleUser}
+                name="email"
+              />
+            </Box>
+            <Box p="2px 10px" border="2px solid gray" mt="20px">
+              <Text fontSize="12px" fonTWeight={500} color="GrayText">
+                Password
+              </Text>
+              <Flex>
+                <Input
+                  variant="unstyled"
+                  p="0px"
+                  mt="0px"
+                  type={!showPass ? "password" : "text"}
+                  value={userData.password}
+                  onChange={handleUser}
+                  name="password"
+                />
+                <Icon
+                  as={showPass ? BiHide : BiShow}
+                  onClick={() => setShowPass((prev) => !prev)}
+                />
+              </Flex>
+            </Box>
+            <Checkbox
+              color="GrayText"
+              mt="20px"
+              borderColor="black"
+              isChecked={userData.keepSigned}
+              name="keepSigned"
+              onChange={handleUser}
+            >
+              Keep me signed in.
+            </Checkbox>
+            <Text fontSize="12.5px" color="GrayText" mt="20px">
+              Selecting this checkbox will keep you signed into your account on
+              this device until you sign out. Do not select this on shared
+              devices.
+            </Text>
+            <Text mt="20px" fontSize="14px">
+              By signing up, I agree to the Orbitz Terms and Conditions, Privacy
+              Statement and Orbitz Rewards Terms and Conditions.
+            </Text>
+            <Button
+              w="100%"
+              colorScheme={"teal"}
+              mt="30px"
+              type="submit"
+              isLoading={loading}
+            >
+              Continue
+            </Button>
+          </form>
+          <Text fontSize="14px" textAlign={"center"} mt="25px">
+            Already have an account?&nbsp;
+            <span
+              style={{ color: "blue", cursor: "pointer" }}
+              onClick={() => navigate("/signin")}
+            >
+              Sign In
+            </span>
           </Text>
-          <Text mt="20px" fontSize="14px">
-            By signing up, I agree to the Orbitz Terms and Conditions, Privacy
-            Statement and Orbitz Rewards Terms and Conditions.
-          </Text>
-          <Button
-            w="100%"
-            colorScheme={"teal"}
-            mt="30px"
-            type="submit"
-            isLoading={loading}
-          >
-            Continue
-          </Button>
-        </form>
-        <Text fontSize="14px" textAlign={"center"} mt="25px">
-          Already have an account?&nbsp;
-          <span
-            style={{ color: "blue", cursor: "pointer" }}
-            onClick={() => navigate("/signin")}
-          >
-            Sign In
-          </span>
-        </Text>
+        </Box>
       </Box>
-    </Box>
     </>
   );
 };
