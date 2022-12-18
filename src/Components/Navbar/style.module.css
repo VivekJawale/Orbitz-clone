@@ -1,0 +1,146 @@
+body {
+  /* margin: 0px; */
+  /* background-color: #00253C; */
+  height: 75px;
+  overflow-x: hidden;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.main {
+  width: 100%;
+  background-color: #00253c;
+  height: 75px;
+  /* margin: 10px; */
+  /* margin-left: 155px; */
+  justify-content: space-around;
+  text-align: center;
+}
+.selection {
+  border: none;
+  background-color: #00253c;
+  color: white;
+}
+.menulist {
+  background-color: white;
+  color: black;
+  width: 300px;
+  border-radius: 20px;
+  /* padding: 5px; */
+}
+
+.option {
+  color: white;
+  background-color: white;
+  border: none;
+  height: 15px;
+  gap: 35px;
+  font-size: 15px;
+  font-weight: 500;
+  padding-left: 30px;
+  /* background-color: #027e8f; */
+}
+.option:hover {
+  color: #008da4;
+}
+.rightnavDiv {
+  gap: 25px;
+  text-align: center;
+  align-items: center;
+  padding-top: 58px;
+}
+.rightnav {
+  margin-top: 125px;
+  text-decoration: none;
+
+  display: flex;
+  flex-direction: row;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  justify-content: space-between;
+  height: 75px;
+  color: white;
+  margin: auto;
+}
+.rightnav:hover {
+  color: #008da4;
+}
+.leftDiv {
+  display: flex;
+  margin-top: 2px;
+  margin-right: 50px;
+  margin-left: 0px;
+}
+.select {
+  background-color: #00253c;
+  border: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  font-size: 14px;
+  margin-left: 30px;
+  margin-top: 25px;
+  height: 16px;
+}
+.nav:hover {
+  cursor: pointer;
+  color: #008da4;
+}
+.selectTag:hover {
+  cursor: pointer;
+  color: #008da4;
+}
+
+.bag {
+  color: white;
+  width: 45px;
+  height: 20px;
+}
+.profile {
+  color: white;
+  width: 45px;
+  text-decoration: none;
+
+  height: 20px;
+}
+.signmenumain {
+  background-color: white;
+  /* height: 100%; */
+}
+.signmenu {
+  background-color: white;
+  width: 450px;
+  /* position: relative; */
+}
+.signmenuitem {
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+
+  background-color: white;
+}
+.signmenuitemButton {
+  width: 100%;
+  height: 35px;
+  color: white;
+  border: none;
+  text-decoration: none;
+  background-color: #c83259;
+}
+.menuText {
+  /* border: 1px solid white;     */
+
+  color: white;
+  border: none;
+  background-color: #00253c;
+  text-decoration: none;
+  font-size: medium;
+  height: 45%;
+  margin-top: -3px;
+}
+@media (max-width: 576px) {
+  .signmenu {
+    width: 350px;
+  }
+}

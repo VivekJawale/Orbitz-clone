@@ -1,0 +1,363 @@
+.heading{
+    text-align: left;
+    padding-left: 35px;
+    }
+    
+.tabbox{
+    background-color: white;
+}
+
+.TabList  {
+    margin-top: 30px;
+margin-bottom: 25px;
+    border: none;
+    gap: 35px;
+    height: auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+
+}
+
+.tab{
+    border: none;
+    background-color: white;
+    font-size: 17px;
+    font-weight:500;
+    width: 125px;
+    height: 35px;
+}
+
+
+
+.myinput{
+    height: 35px;
+    width: 250px;
+    margin-left: 25px;
+}
+.mydate{
+    height: 35px;
+    margin-left: 25px;
+
+    width: 100px;
+}
+.TabPanel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.Button {
+    color: white;
+    background-color: #c83259;
+    width: auto;
+    height: 45px;
+    border: none;
+    margin: 25px;
+}
+
+@media (max-width: 450px) {
+    .TabList  {
+  
+   margin-top: 30px;
+    
+    
+    }
+    .myinput{
+        height: 35px;
+        width: auto;
+        margin-left: 25px;
+    }
+    .tab{
+        border: none;
+        background-color: white;
+        font-size: 12px;
+        font-weight:500;
+        margin: -20px;
+    }
+
+
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.bigimage{
+    width: 750px;
+    height: 220px;
+    margin: 10px;
+}
+.smallimage{
+    width: 150px;
+    height: 160px;
+margin: 10px;
+}
+.bigbox{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+
+}
+.smallbox{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    /* border: 1px solid; */
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.text{
+    font-weight: 300;  
+}
+@media (max-width:1000px){
+    .box{
+        flex-direction: column;
+    }
+    
+    .bigimage{
+        width: 100%;
+        height: 250px;
+    }
+  
+}
+.hotels{
+    display: flex;
+    gap: 25px;
+    text-align: start;
+    padding:auto;
+    margin: auto;
+    overflow-x: auto;
+    width: 95%;
+    height: auto;
+
+}
+.divbox{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+padding: 10px;
+}
+.hotelname{
+  font-size: 17px;
+}
+.hoteldetail{
+    font-weight: 300;
+    margin-top: -19px;
+}
+.hotelrating{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -20px;
+
+}
+.line{
+    border: 0.1px solid gray;
+
+    width: 80%;
+    margin-top: -10px;
+
+}
+.span{
+    display: flex;
+    align-items: flex-end;
+margin-top: -25px;
+    text-decoration: dashed;
+    justify-content: end;
+}
+.spanoff{
+    background-color: #1d8846;
+    color: white;
+    padding: 2px;
+}
+.refund{
+    color: #1d8846;
+}
+.total{
+    text-decoration: line-through;
+    gap: 25px;
+    margin-right: 20px;
+    align-self:flex-end;
+}
+.hotelimage{
+    width: 380px;
+    height: 300px;
+}
+.price{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: -25px;
+}
+.traveling {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .traveling > div:nth-child(1) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/09/28/desktop.jpg");
+    background-position: center;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    object-fit: fill;
+    color: white;
+    height: 240px;
+  }
+  .traveling > div:nth-child(2) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/09/28/desktop.jpg");
+    background-position: center;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    object-fit: fill;
+    color: white;
+    height: 240px;
+  }
+  .traveling h2 {
+    margin-top: 0px;
+  }
+  .traveling > div > div {
+    background: rgb(0, 0, 0, 0.6);
+    /* height: 250px;
+      margin: 0; */
+  
+    height: 100%;
+    top: 0;
+    position: relative;
+  }
+  .traveling > div > div > div {
+    position: absolute;
+    top: 25%;
+    left: 20px;
+  }
+  .app {
+    margin-top: 70px;
+  }
+  .app > img {
+    width: 100%;
+  }
+  .moreDesti > img {
+    width: 100%;
+  }
+
+  .button {
+    width: 110px;
+    height: 40px;
+    font-size: 16px;
+    border-color: #c7c7c7;
+    border-radius: 2px;
+    border-width: 1px;
+    background-color: #ffffff;
+    color: #007e8f;
+    font-weight: 500;
+  }
+
+  @media (max-width: 780px) {
+    .traveling{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+
+
+
+.featured {
+    /* width: 81%; */
+    margin: auto;
+  }
+  .featured > h1 {
+    margin-bottom: 0px;
+  }
+  .featuredDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  
+    color: white;
+  }
+  
+  .featuredDiv > :nth-child(1) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/07/20/roadtripapp.jpeg?impolicy=fcrop&w=900&h=386&q=mediumHigh");
+    /* background-position: bottom; */
+    /* opacity: 0.8; */
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* width: 100%; */
+    height: 188px;
+  }
+  .featuredDiv > :nth-child(2) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/05/06/airstream.jpeg?impolicy=fcrop&w=900&h=386&q=mediumHigh");
+    /* background-position: bottom; */
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    height: 188px;
+  }
+  .featuredDiv > :nth-child(3) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/05/06/glamping2.jpeg?impolicy=fcrop&w=900&h=386&q=mediumHigh");
+    /* background-position: bottom; */
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    height: 188px;
+  }
+  .featuredDiv > :nth-child(4) {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/05/06/planetypes.jpeg?impolicy=fcrop&w=900&h=386&q=mediumHigh");
+    /* background-position: bottom; */
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    height: 188px;
+  }
+  .featuredDiv > div > div > h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+  .featuredDiv > div > div > p {
+    margin: 5px 0px;
+  }
+  .featuredDiv > div {
+    position: relative;
+  }
+  .featuredDiv > div > div {
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+  }
+
+
+@media (max-width: 900px) {
+    .featuredDiv{
+        grid-template-columns: repeat(2,1fr);
+      }
+}
+@media (max-width: 576px) {
+    .featuredDiv{
+        grid-template-columns: repeat(1,1fr);
+      }  
+}
+
+.moreDesti > img {
+    width: 100%;
+  }
+  .flightdiv{
+    /* border: 1px solid red; */
+    /* margin-left: 250px; */
+    display: flex;
+    width: 100%;
+    align-items: center;
+  justify-items: center;
+  text-align: center;
+}
+.flightdiv >div{
+align-self: center;
+width: 33%;
+/* border: 1px solid red; */
+
+}

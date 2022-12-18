@@ -1,0 +1,204 @@
+.mainbox {
+  display: flex;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+}
+.mainbox > div {
+  box-shadow: rgba(88, 82, 82, 0.35) 0px -50px 36px -28px inset;
+  height: 190px;
+}
+.image {
+  width: 285px;
+  height: 140px;
+}
+@media (max-width: 900px) {
+  .mainbox {
+    flex-direction: column;
+  }
+}
+
+.featured {
+  /* width: 81%; */
+  margin: auto;
+}
+.featured > h1 {
+  margin-bottom: 0px;
+}
+.featuredDiv {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+
+  color: white;
+}
+
+.featuredDiv > :nth-child(1) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/02/ORB_Storefront_LastMinute_imgB_900x600_20211101.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+  /* background-position: bottom; */
+  /* opacity: 0.8; */
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* width: 100%; */
+  height: 188px;
+}
+.featuredDiv > :nth-child(2) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/02/ORB_Storefront_AllInclusive_imgB_900x600_20211101.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+  /* background-position: bottom; */
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  height: 188px;
+}
+.featuredDiv > :nth-child(3) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/02/ORB_Storefront_MOD_imgB_900x600_20211101.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+  /* background-position: bottom; */
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  height: 188px;
+}
+.featuredDiv > :nth-child(4) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/02/ORB_Storefront_JetAndReset_imgB_900x600_20211101.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+  /* background-position: bottom; */
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  height: 188px;
+}
+.featuredDiv > div > div > h2 {
+  margin: 0;
+  font-size: 20px;
+}
+.featuredDiv > div > div > p {
+  margin: 5px 0px;
+}
+.featuredDiv > div {
+  position: relative;
+}
+.featuredDiv > div > div {
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .featuredDiv {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 576px) {
+  .featuredDiv {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.todeals {
+  /* width: 81%; */
+  margin: 20px auto;
+}
+.backGround2 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/12/03/ORB_Storefront_Deals_2740x1484-V1.jpg");
+  background-position: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  object-fit: fill;
+  color: white;
+  height: 297px;
+}
+.backGround2 > div {
+  height: 100%;
+  background: rgb(0, 0, 0, 0.3);
+  position: relative;
+}
+.backGround2 > div > div {
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+}
+.backGround2 h4 {
+  margin: 0;
+}
+.backGround2 p {
+  margin-top: 5px;
+}
+.cancleTrip > img {
+  width: 100%;
+}
+.traveling {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.traveling > div:nth-child(1) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/18/ORB_Blog_NationalParks_imgB_1199x399_20211117.jpg");
+  background-position: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  object-fit: fill;
+  color: white;
+  height: 240px;
+}
+.traveling > div:nth-child(2) {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/11/18/ORB_Blog_RoadTrips_imgB_1199x399_20211117.jpg");
+  background-position: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  object-fit: fill;
+  color: white;
+  height: 240px;
+}
+.traveling h2 {
+  margin-top: 0px;
+}
+.traveling > div > div {
+  background: rgb(0, 0, 0, 0.6);
+  /* height: 250px;
+    margin: 0; */
+
+  height: 100%;
+  top: 0;
+  position: relative;
+}
+.traveling > div > div > div {
+  position: absolute;
+  top: 25%;
+  left: 20px;
+}
+.app {
+  margin-top: 70px;
+}
+.app > img {
+  width: 100%;
+}
+.moreDesti > img {
+  width: 100%;
+}
+
+.button {
+  width: 110px;
+  height: 40px;
+  font-size: 16px;
+  border-color: #c7c7c7;
+  border-radius: 2px;
+  border-width: 1px;
+  background-color: #ffffff;
+  color: #007e8f;
+  font-weight: 500;
+}
+
+@media (max-width: 780px) {
+  .traveling {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
