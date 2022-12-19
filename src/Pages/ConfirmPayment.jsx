@@ -85,7 +85,7 @@ export const ConfirmPayment = () => {
             <Box>
               <Heading lineHeight="tall" fontSize="30px">
                 <Highlight
-                  query={["Nomado", "Travelers"]}
+                  query={["Orbitz"]}
                   styles={{ px: "2", py: "1", rounded: "full", bg: "red.100" }}
                 >
                   Thank you for choosing Orbitz.com.
