@@ -88,7 +88,7 @@ export const ConfirmPayment = () => {
                   query={["Nomado", "Travelers"]}
                   styles={{ px: "2", py: "1", rounded: "full", bg: "red.100" }}
                 >
-                  Thank you for choosing Nomado Travelers.
+                  Thank you for choosing Orbitz.com.
                 </Highlight>
               </Heading>
               <Text fontSize="13px" fontWeight={600} color="teal" mb="20px">

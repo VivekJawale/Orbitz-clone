@@ -76,7 +76,7 @@ export const HotelCheckout = () => {
           px="20px"
           color="teal"
         >
-          A Nomado Group Company. All Rights Reserved.
+          A Orbitz Company. All Rights Reserved.
         </Text>
 
         <Text
@@ -88,7 +88,7 @@ export const HotelCheckout = () => {
           color="teal"
           fontFamily="cursive"
         >
-          Nomado Travellers
+         Orbitz.com
         </Text>
       </Box>
     </>
