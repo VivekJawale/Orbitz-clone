@@ -30,7 +30,8 @@ export const BookHotel = () => {
   const [loading, setLoading] = useState(true);
   const { data, pictures } = useSelector((store) => store.singleHotel);
   const params = useParams();
-
+  // dnsjkfnjsd
+// dsjfohghdfo
   useEffect(() => {
     dispatch(getSingleHotelData(params.id)).then((res) => {
       setLoading(false);
