@@ -32,7 +32,7 @@ export const BookHotel = () => {
   const params = useParams();
   // dnsjkfnjsd
 // dsjfohghdfosjdfnsod
-sjgsj
+sjgsjwfhdhf
   useEffect(() => {
     dispatch(getSingleHotelData(params.id)).then((res) => {
       setLoading(false);
