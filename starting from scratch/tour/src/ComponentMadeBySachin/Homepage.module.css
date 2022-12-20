@@ -1,0 +1,13 @@
+.Container{
+ display: grid;
+ grid-template-columns: repeat(4,1fr);    
+ color:#007ea8 ; 
+ width: 90%;
+ margin: auto;
+ font-size: 14px
+}
+@media (max-width: 919px){
+    .Container{
+        grid-template-columns: repeat(2,1fr);     
+    }
+}
